@@ -6,5 +6,6 @@
   },
   "files.associations": {
     "*.erb": "erb"
-  }
+  },
+  "terminal.integrated.fontSize": 18
 }
