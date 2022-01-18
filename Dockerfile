@@ -9,7 +9,7 @@ RUN yes | unminimize \
         build-essential \
         htop \
         jq \
-        less \
+        less \ProjectCameraDeadbeatProjectCameraDeadbeat
         locales \
         man-db \
         nano \
