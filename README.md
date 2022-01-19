@@ -10,6 +10,8 @@ For now, we're just trying to learn how to make the pages _look_ the way we want
 
 ## Standard Workflow
 
+hi 
+
  1. Open the project in Gitpod.
  2. When you're creating the workspace for the very first time, wait for it to finish setting up.
  3. Start the web server by typing `bin/server` at a Terminal prompt and pressing <kbd>return</kbd>.
